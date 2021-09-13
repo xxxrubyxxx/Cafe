@@ -10,5 +10,6 @@ public class Cafe {
 
     private String name;
     private Method method;
+    private Object clazz;
     private String type;
 }
